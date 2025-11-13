@@ -29,3 +29,9 @@ Model implementation demonstrated very strong predictive accuracy across platfor
 - Automation Libraries: Selenium, PyAutoGUI, win32api, win32con, time, cv2, pytesseract
 - Data & Analysis: pandas, numpy, requests, re
 - Workflow: Jupyter Notebook
+
+---
+
+## Betting Platforms
+- DFS: Underdog, PrizePicks
+- Sportsbooks (used only as a data point, not to place bets): Pinnacle, DraftKings
