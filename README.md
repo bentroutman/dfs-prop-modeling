@@ -20,7 +20,7 @@ Model implementation demonstrated very strong predictive accuracy across platfor
 | Underdog    | 0.5763        | 14.8%           |
 | PrizePicks  | 0.5759        | 14.4%           |
 
-* ROI calculated using a 3-leg parlay paying 6x the entry amount, since this is generally the most optimal bet type on DFS
+\* ROI calculated using a 3-leg parlay paying 6x the entry amount, since this is generally the most optimal bet type on DFS
 
 ---
 
