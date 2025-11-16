@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 # Scrapes data from all sports offered on PrizePicks using the API and PyAutoGUI
 
 from selenium import webdriver
