@@ -1,5 +1,5 @@
 # DFS Prop Modeling
-This project investigates player prop modeling and market movements using publicly available data from Daily Fantasy Sports (DFS) platforms like PrizePicks and Underdog. Model demonstrated a consistent predictive edge, with estimated ROI of 14.8% on Underdog and 14.4% on PrizePicks, corresponding to ~57.6% hit rates per prop. It focuses on automated data collection, cleaning, and predictive modeling to estimate expected value (EV) and identify inefficiencies in player props. Prop lines are compared to equivalent props on various DFS sites and sportsbooks to identify price and/or line discrepancies.
+This project investigates player prop modeling and market movements using publicly available data from Daily Fantasy Sports (DFS) platforms like PrizePicks and Underdog. Model demonstrated a consistent predictive edge, with estimated ROI of 14.8% on Underdog and 14.4% on PrizePicks, corresponding to ~57.6% hit rates per prop. It focuses on automated data collection, cleaning, and predictive modeling to estimate expected value (EV) and identify inefficiencies in player props. Prop lines are compared to equivalent props on various DFS sites and sportsbooks (Pinnacle, DraftKings) to identify price and/or line discrepancies.
 
 ---
 
