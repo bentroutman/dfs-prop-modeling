@@ -3,6 +3,9 @@
 
 # In[ ]:
 
+# Combines the data from DFS sites and sportsbooks into csvs that estimate expected value (EV)
+# Sends a discord notification to the user when profitable opportunities are available
+# Run this after running the prizepicks, underdog, pinnacle, and draftkings scrapers first
 
 from selenium import webdriver
 def scrape():
