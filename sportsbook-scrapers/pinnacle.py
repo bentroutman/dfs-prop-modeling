@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 # Scrapes data from Pinnacle sportsbook to use to create expected value estimations
 
 from selenium import webdriver
