@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 # Scrapes all desired lines from Underdog's site using Selenium and exports as a csv file
 
 from selenium import webdriver
