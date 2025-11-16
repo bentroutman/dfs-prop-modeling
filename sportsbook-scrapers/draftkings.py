@@ -3,6 +3,7 @@
 
 # In[ ]:
 
+# Scrapes data from selected sports from DraftKings to generate expected value (EV) estimates
 
 from selenium import webdriver
 def scrape():
