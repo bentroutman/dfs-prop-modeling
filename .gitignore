@@ -1,0 +1,7 @@
+# Python environment and cache files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store

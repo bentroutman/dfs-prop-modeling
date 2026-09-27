@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+scipy
+selenium
+webdriver-manager
+pyautogui
+pyperclip
+pytesseract
+opencv-python
+unidecode
+pywin32; sys_platform == "win32"
